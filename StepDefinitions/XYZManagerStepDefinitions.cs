@@ -78,6 +78,9 @@ namespace SpecFlowProjectEG.StepDefinitions
         {
             Console.WriteLine("New Customer Added");
 
+
+
+            Console.WriteLine("New Customer Added");
         }
     }
 }
